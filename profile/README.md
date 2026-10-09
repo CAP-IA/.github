@@ -5,12 +5,16 @@
 </p>
 
 <p align="center">
-  <a href=https://campus-ia.u-bordeaux.fr/home>
-    Accéder à la plateforme CampusIABordeaux
+  <a href="https://campus-ia.u-bordeaux.fr/home">
+    <img src="../assets/button-campus-ia.svg"
+      alt="Consulter la plateforme CampusIABordeaux"
+      width="390">
   </a>
 </p>
 
-<hr>
+<p align="center">
+  Une plateforme pour découvrir des jeux de données, des applications interactives et des projets développés autour de l’IA.
+</p>
 
 ## À propos
 

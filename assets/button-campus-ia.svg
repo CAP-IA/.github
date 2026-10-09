@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="390" height="76" viewBox="0 0 390 76">
+  <defs>
+    <linearGradient id="blueGradient" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#168EE7"/>
+      <stop offset="100%" stop-color="#005AAE"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Ombre / effet de profondeur -->
+  <rect x="5" y="8" width="380" height="63"
+        rx="31" fill="#7B61FF" opacity="0.18"/>
+
+  <!-- Bouton principal -->
+  <rect x="3" y="3" width="384" height="63"
+        rx="31" fill="url(#blueGradient)"
+        stroke="#7B61FF" stroke-width="3"/>
+
+  <!-- Icône à gauche -->
+  <text x="24" y="43"
+        fill="white"
+        font-size="24"
+        font-family="Arial, Helvetica, sans-serif">✦</text>
+
+  <!-- Texte principal -->
+  <text x="190" y="40"
+        text-anchor="middle"
+        fill="white"
+        font-size="13"
+        font-weight="700"
+        font-family="Arial, Helvetica, sans-serif">
+    Consulter la plateforme CampusIABordeaux
+  </text>
+
+  <!-- Flèche à droite -->
+  <path d="M348 34h15m-6-6 6 6-6 6"
+        stroke="white"
+        stroke-width="2.4"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        fill="none"/>
+</svg>
